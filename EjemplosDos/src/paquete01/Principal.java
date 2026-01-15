@@ -43,3 +43,10 @@ public class Principal {
     }
     
 }
+/*
+Crear un programa donde se calcule el promedio de las notas del usuario, en el
+paquete principal se escriben las variables y se escribe el mensaje, en otro paquete
+pedir nombre y apellido, el otro paquete pedir su ciudad, en otro paquete pedir
+sus 4 notas y en otro paquete hacer el procedimiento para sacar el promedio,
+todo eso se devuelve al paquete principal para imprimirlo.
+*/
